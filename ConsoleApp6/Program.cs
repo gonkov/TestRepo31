@@ -30,6 +30,8 @@ namespace ConsoleApplication
             }
 
         }
+
+        // очень ценный коммент
         
 
 
